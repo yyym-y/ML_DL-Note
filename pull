@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "1. To path"
+
+cd /sdcard/Documents/ML_DL-Note
+git pull

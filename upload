@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "1. To path"
+
+cd /sdcard/Documents/ML_DL-Note
+
+echo "2. Start submitting code to the local repository"
+git add *
+
+echo "3. Commit the changes to the local repository"
+now=$(date)
+echo "Time: $now"
+git commit -m "feat: (device: linux) Time: $now"
+
+echo "4. Push the changes to the remote git server"
+git push -u origin master
+echo "Batch execution complete!"
