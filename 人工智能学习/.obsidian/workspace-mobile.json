@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "c0de68a8640bdd92",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce23ea0ecca9f77b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00d6ee8035b45cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础学习/深度学习/动手学深度学习/线性代数及数学部分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "线性代数及数学部分"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8714ae897fc27758",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de0de52cfb0b2eb7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "0f4e789a928f92b2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "cdc1d2ee710af360",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "229f9d270b3ec354",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c5315b1d0706e6c5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "802022e72525e77b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "基础学习/深度学习/动手学深度学习/线性代数及数学部分.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "8caea7ad6efd0363",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "基础学习/深度学习/动手学深度学习/环境部署.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "a410778836cf4a2c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "基础学习/深度学习/动手学深度学习/环境部署.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "00d6ee8035b45cb4",
+  "lastOpenFiles": [
+    "基础学习/深度学习/动手学深度学习/环境部署.md",
+    "基础学习/深度学习/动手学深度学习/线性代数及数学部分.md",
+    "Screenshot_2025-05-02-21-59-54-570_com.jideos.jnotes.png",
+    "Screenshot_2025-05-02-21-52-50-747_com.jideos.jnotes.png",
+    "基础学习/深度学习/动手学深度学习",
+    "基础学习/深度学习",
+    "README.md",
+    "基础学习"
+  ]
+}
